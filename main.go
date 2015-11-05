@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/masonoise/ecsman/components"
+	"github.com/womply/ecsman/components"
 
 	"github.com/aws/aws-sdk-go/aws/credentials"
 )
